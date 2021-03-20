@@ -1,0 +1,44 @@
+
+
+.middle-area{
+    margin-top: 20px;
+    text-align: center;
+}
+.bootom-login-area{
+    margin-top: 150px;
+    text-align: center;
+}
+.form-area{
+    border: 1px solid grey;
+    padding: 10px;
+    border-radius: 5px;
+    width: 300px;
+    margin: 0 auto;
+}
+.form-area input{
+    width: 100%;
+    border: 0px;
+    margin-bottom: 10px;
+    border-bottom: 1px solid grey;
+}
+.submit-btn{
+    border-bottom: 0;
+}
+
+.Login-area{
+    
+    margin: 0 auto;
+    
+}
+.Login-area button{
+    padding: 10px;
+    border-radius: 10px;
+    width: 220px;
+}
+.check-area{
+    margin: 0 auto;
+    text-align: center;
+}
+.toggle-area{
+    display: float;
+}
