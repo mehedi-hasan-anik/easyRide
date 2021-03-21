@@ -12,6 +12,8 @@
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
+  padding-bottom: 140px;
+  
 }
 
 .row-area{
