@@ -39,24 +39,12 @@ const Login = () => {
             console.log(error.message);
         });
     }
-    // const handleSignOut = () =>{
-    //     firebase.auth().signOut()
-    //     .then(res => {
-    //         const signedOutUser ={
-    //             isSignedIn:false,
-    //             name:'',
-    //             email:'',
-    //             password:'',
-    //             photo:'',
-    //             error:'',
-    //             success:false,
-    //         }
-    //         setUser(signedOutUser);
-    //       })
-    //       .catch(error => {
-    //         // An error happened.
-    //       });
-    // }
+
+
+   
+
+
+
     const handleFacebookSignIn = () =>{
         const facebookProvider = new firebase.auth.FacebookAuthProvider();
 

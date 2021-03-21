@@ -18,7 +18,7 @@ const Destination = () => {
             <div className="container">
                  <div className="row">
                        <div className="col-sm-12 col-md-12 col-lg-4 ">
-                           
+                           <div className="full-form-area">
                              <div className="form-area">
                                  <form action="">
                                      <p>Pick From</p>
@@ -28,6 +28,7 @@ const Destination = () => {
                                  </form>
                                  <button onClick={()=> setShow(!show)} >search</button>
                              </div>
+                            </div>
                              <div>
                                  { show ? <div className="show-area row">
                                      <div className="img-area col-3">

@@ -28,3 +28,12 @@
     float: right;
     width: 30%;
 }
+
+@media screen and (max-width: 400px) {
+    .full-form-area{
+        margin: 20px 0px;
+    }
+    .map-area{
+        margin: 20px 0px;
+    }
+  }
