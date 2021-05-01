@@ -3,8 +3,7 @@ firstly I create a repository using command 'npx create-react-app react-router' 
 Then build the website.
 
 # Description
-This is a single page application with used React Router, netlify based hosting site. 
-This is a ride share and searching website build by react js including
+People benefit through this website. You can use this website to go anywhere in Bangladesh very easily and at low cost.
 
 ## Added
 - react router
@@ -22,5 +21,5 @@ This is a ride share and searching website build by react js including
 - netlify deploy
 
 # Repository link & live link
-- (https://github.com/Porgramming-Hero-web-course/react-auth-mehedi-hasan-anik)
+- (https://github.com/mehedi-hasan-anik/easyRide)
 - (https://gallant-beaver-776ef3.netlify.app)
